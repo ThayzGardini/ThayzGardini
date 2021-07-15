@@ -1,4 +1,4 @@
-### ✨ Bem vindo(a)🦕
+### <img src="https://github.com/ThayzGardini/img/blob/main/hi.gif" width="30px"> Bem vindo(a)🦕 
 
 <!--
 **ThayzGardini/ThayzGardini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
