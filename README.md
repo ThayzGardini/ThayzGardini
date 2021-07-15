@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/thayz-gardini-b03863108/"><img src="https://github.com/ThayzGardini.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/thayz-gardini-b03863108)
+
+
+---  
+
+![](https://komarev.com/ghpvc/?username=ThayzGardini&color=blue&style=flat)
