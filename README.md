@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 </center> 
 
 
-<a href="https://www.linkedin.com/in/thayz-gardini-b03863108/"><img src="https://github.com/ThayzGardini.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/thayz-gardini-b03863108)
-
+<a href="https://www.linkedin.com/in/thayz-gardini-b03863108" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ---  
 
